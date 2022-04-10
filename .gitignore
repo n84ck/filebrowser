@@ -1,0 +1,9 @@
+.vs/
+FileBrowser/bin/
+FileBrowser/obj/
+FileBrowserAPI/bin/
+FileBrowserAPI/obj/
+FileBrowserApiTests/bin/
+FileBrowserApiTests/obj/
+FileBrowserTests/bin/
+FileBrowserTests/obj/
